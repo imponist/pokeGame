@@ -9,7 +9,10 @@ Bsp.: Wasser ist fliessend, mögliche Instrumente sind Streicher und Harfe als S
     * Wächter
     * Wilde Poké
     * Trainer
-    * Gegnr. Team / Rivale
+    * Gegnr. Team
+    * Rivale
+    * Top Vier
+    * Champ
 
 ## Konzept
 ### Biomes
@@ -37,7 +40,14 @@ Es entsteht 1 Musikstück, welches ja nach Ort (Stadt, Outisde, Wächter-Dungeon
 #### Psycho
 #### Feuer
 #### Boden
-
+##### Charakter
+* Stürmisch (Sandsturm)
+* Drückend, gleissend (Sonne)
+* Scheinbar tot
+##### Instrumente
+* Windstorm
+* Middle Eastern Dreams (Sitar)
+* Bansuri Flute
 ### 2 Dim
 #### Flug
 #### Käfer
@@ -51,3 +61,52 @@ Es entsteht 1 Musikstück, welches ja nach Ort (Stadt, Outisde, Wächter-Dungeon
 ### 3 Dim
 #### Unlicht
 #### Fee
+
+## Tempel
+
+## Kampf
+### Wächter
+The Titan (Into the Vortex) - Altered Version
+#### Charakter
+#### Instrumente
+* Thruster
+* Metal Storm
+* Wired Moments
+* Ancient Titan
+* Awaking
+* Ethnic Percussion Pattern
+* Strings
+* Epic Choir
+* Power Chords
+* Chasseur
+* 
+### Wilde Poké
+#### Charakter
+#### Instrumente
+### Trainer
+#### Charakter
+#### Instrumente
+### Gegnr. Team
+* Grunt
+* Boss
+#### Charakter
+#### Instrumente
+* Computer Music 1977
+* Swarming Arp
+* Acid Trance Pattern
+* Dark Synth Wave
+* Massive Saw Patterns
+* Shifting Patterns Synth
+* Single Digit Suspense
+* Tin Man
+* 
+### Rivale
+#### Charakter
+#### Instrumente
+* Deep and Groovy Overdrive
+### Top Vier
+#### Charakter
+#### Instrumente
+### Champ
+#### Charakter
+#### Instrumente
